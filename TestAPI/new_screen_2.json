@@ -1,0 +1,40 @@
+{
+    "second": [
+        {
+            "id": "0",
+            "imageURL": {
+                "uri": "http://file.hstatic.net/1000075078/article/kv_1920x768_web_abdd55c844364881bf5f680a156e38ce_d328887ddc5248f4a5ff498f0280a671_master.jpg"
+            },
+            "title": "HƯƠNG VỊ MÙA YÊU THƯƠNG, BẠN ĐÃ THƯỞNG THỨC CHƯA?",
+            "content": "Câu chuyện cuối năm đâu chỉ có bộn bề. Mà còn ấm áp bởi những cuộc gặp gỡ đầy yêu thương. Và hãy để những hương vị “ấm áp - ngọt ngào - nhẹ nhàng” của Nhà, góp phần cho câu chuyện của bạn thêm đầy, thêm ấm hơn nhé!",
+            "bottomButton": "Order ngay",
+            "sourceURL": {
+                "uri": "https://www.thecoffeehouse.com/blogs/news/huong-vi-mua-yeu-thuong-ban-da-thuong-thuc-chua"
+            }
+        },
+        {
+            "id": "1",
+            "imageURL": {
+                "uri": "http://file.hstatic.net/1000075078/article/blog_130c5cbf52e442b6ba6dcf45e38f2680_master.jpg"
+            },
+            "title": "Chiến dịch giảm ống hút tại The Coffee House - Cảm ơn bạn vì đã từ chối dùng ống hút",
+            "content": "Từ tháng 10/2019, The Coffee House sẽ bắt đầu hành động giảm thiểu ống hút nhựa sử dụng 1 lần tại toàn bộ hệ thống. Cụ thể là The Coffee House chỉ phục vụ ống hút khi khách hàng yêu cầu.  Đây là một bước khởi đầu cho chuỗi hoạt động Bảo vệ môi trường bền vững của The Coffee House trong năm 2019 - 2020. ",
+            "bottomButton": "Chi tiết",
+            "sourceURL": {
+                "uri": "https://www.thecoffeehouse.com/blogs/news/go-green"
+            }
+        },
+        {
+            "id": "2",
+            "imageURL": {
+                "uri": "http://file.hstatic.net/1000075078/article/cover_fb_800x300_c97ded2d90324c2486b5954c37b6bdc5_master.jpg"
+            },
+            "title": "LỄ HỘI MACCHIATO - THÊM CẢM HỨNG, THÊM VUI!",
+            "content": "Đến hẹn lại lên, Mùa Lễ Hội Macchiato đã quay trở lại! Hãy sẵn sàng xóa tan cơn nắng mưa thất thường, để hòa mình vào Lễ Hội Macchiato đầy sắc màu với bộ ba món mới từ The Coffee House: ",
+            "bottomButton": "Order ngay",
+            "sourceURL": {
+                "uri": "https://www.thecoffeehouse.com/blogs/news/le-hoi-macchiato-them-cam-hung-them-vui"
+            }
+        }
+    ]
+}

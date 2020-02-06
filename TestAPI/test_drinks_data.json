@@ -1,0 +1,554 @@
+[
+    {
+        "id": "0",
+        "title": "Món nổi bật",
+        "data": [
+            {
+                "id": "0",
+                "name": "Matcha Hạnh Nhân Đá Xay",
+                "imageURL": "https://product.hstatic.net/1000075078/product/matchaalmondlanh_2d7aba41ab784c32a804f913460f00e3_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Matcha thanh nhẫn được nhân đôi vị giác, với lớp đá xay chocolate đăng đắng cùng vị hạnh nhân thơm lừng. Xuyến nhẹ thêm nét ngọt bùi beo béo của lớp kem và hạt hạnh nhân ở phía trên. Hòa vị miễn chê và gây thương nhớ vô cùng."
+            },
+            {
+                "id": "1",
+                "name": "Trà Sữa Oolong Hạnh Nhân",
+                "imageURL": "https://product.hstatic.net/1000075078/product/oolongalmondlanh_59d1a66f9c8f4d358d8c5cda5cd4f620_large.jpg",
+                "price": 42000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 6000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 13000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Trân châu trắng",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Một lựa chọn cực kì \"balance\" giữa hương và vị, giữa vị thanh mát của lớp trà oolong hảo hạng, với hương sữa hạnh nhân giàu \"canxi\". Mang đến 1 hòa vị đỉnh cao, vừa giải nhiệt xua tan nắng nóng, vừa cực kì \"healthy\" - rất dễ để bạn chốt kèo rồi đây!"
+            },
+            {
+                "id": "2",
+                "name": "Choco Cherry Hạnh Nhân Đá Xay",
+                "imageURL": "https://product.hstatic.net/1000075078/product/chocoalmondlanh_7f36265718614499adcad596975e6920_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Sữa và lớp hạnh nhân ngọt ngào, được đằm lại bởi vị chocolate đăng đắng cùng lớp cherry chua thanh. Món uống thích hợp cho tín đồ hảo ngọt và thích \"healthy\", giúp lên tinh thần cho ngày mới tràn đầy năng lượng hơn."
+            },
+            {
+                "id": "3",
+                "name": "Cà Phê Sữa Hạnh Nhân",
+                "imageURL": "https://product.hstatic.net/1000075078/product/cfalmondlanh_44b14a82f75b4502a349a1b6ddde23c8_large.jpg",
+                "price": 55000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 6000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Vẫn là ly cà phê sữa quen thuộc ấy, nhưng nay lại càng thêm đặc biệt hơn bởi lớp hạnh nhân hòa quyện. Nhâm nhi 1 ly cà phê cho tỉnh táo lại vừa tốt cho sức khỏe, thì ngày của bạn chắc chắn sẽ ổn phết đấy!"
+            },
+            {
+                "id": "4",
+                "name": "Cà Phê Sữa Hạnh Nhân Nóng",
+                "imageURL": "https://product.hstatic.net/1000075078/product/cfalmondnong_412179c206fc400dba8a3ec3fdbf3c22_large.jpg",
+                "price": 50000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Vẫn là ly cà phê sữa quen thuộc ấy, nhưng nay lại càng thêm đặc biệt hơn bởi lớp hạnh nhân hòa quyện. Nhâm nhi 1 ly cà phê cho tỉnh táo lại vừa tốt cho sức khỏe, thì ngày của bạn chắc chắn sẽ ổn phết đấy!"
+            },
+            {
+                "id": "5",
+                "name": "Chocolate Sữa Hạnh Nhân Nóng",
+                "imageURL": "https://product.hstatic.net/1000075078/product/chocoalmondnong_d4604c07b7f24041953d37f7cca63c66_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "description": "Vẫn là ly cà phê sữa quen thuộc ấy, nhưng nay lại càng thêm đặc biệt hơn bởi lớp hạnh nhân hòa quyện. Nhâm nhi 1 ly cà phê cho tỉnh táo lại vừa tốt cho sức khỏe, thì ngày của bạn chắc chắn sẽ ổn phết đấy!"
+            },
+            {
+                "id": "6",
+                "name": "Matcha Sữa Hạnh Nhân",
+                "imageURL": "https://product.hstatic.net/1000075078/product/matchaalmondnong_b0c7500df5fc43dc94e8dac6d5d86bc0_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "description": "Vẫn là ly cà phê sữa quen thuộc ấy, nhưng nay lại càng thêm đặc biệt hơn bởi lớp hạnh nhân hòa quyện. Nhâm nhi 1 ly cà phê cho tỉnh táo lại vừa tốt cho sức khỏe, thì ngày của bạn chắc chắn sẽ ổn phết đấy!"
+            },
+            {
+                "id": "7",
+                "name": "Trà Sữa Oolong Hạnh Nhân Nóng",
+                "imageURL": "https://product.hstatic.net/1000075078/product/oolongalmondnong_b5423d87022647c0ab7de3fe50d2b354_large.jpg",
+                "price": 55000,
+                "type": "drinks",
+                "description": "Vẫn là ly cà phê sữa quen thuộc ấy, nhưng nay lại càng thêm đặc biệt hơn bởi lớp hạnh nhân hòa quyện. Nhâm nhi 1 ly cà phê cho tỉnh táo lại vừa tốt cho sức khỏe, thì ngày của bạn chắc chắn sẽ ổn phết đấy!"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "title": "Cà phê",
+        "data": [
+            {
+                "id": "8",
+                "name": "Americano",
+                "imageURL": "https://product.hstatic.net/1000075078/product/americano_large.jpg",
+                "price": 40000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 5000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Espresso (1shot)",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Câu chuyện được kể lại rằng trong Thế Chiến Thứ II, những binh sĩ Mỹ đóng quân trên đất Ý đã rơi vào tình trạng \"say bí tỉ\" khi lần đầu tiếp xúc với hương vị Espresso mạnh mẽ vùng bản địa."
+            },
+            {
+                "id": "9",
+                "name": "Bạc Sỉu",
+                "imageURL": "https://product.hstatic.net/1000075078/product/white_vnese_coffee_9968c1184d7f4634a9bb9fce7b5ff313_large.jpg",
+                "price": 29000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 6000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Bạc là \"trắng\". Tẩy là \"ly\". Sỉu là \"một chút\". Phé là \"cà phê\". Bạc sỉu chính là \"Ly sữa trắng kèm một chút cà phê\". Người lao động phổ thông khi xưa dùng sữa đặc pha với nước nóng để thay thế cho sữa tươi đắt đỏ trong thời điểm ấy. Tuy vậy, vị sữa đặc pha khá nồng, nên họ biến tấu chút cà phê vào cho ly sữa thêm thơm và hấp dẫn."
+            },
+            {
+                "id": "10",
+                "name": "Cà Phê Đen",
+                "imageURL": "https://product.hstatic.net/1000075078/product/vnese_coffee_large.jpg",
+                "price": 29000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 6000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Không ngọt ngào như Bạc sỉu hay Cà phê sữa, Cà phê đen mang trong mình phong vị trầm lắng, thi vị hơn. Từng hạt cà phê tại Nhà đều phải vượt qua những \"thử thách\" chặt chẽ về chất lượng gieo trồng, vun dưỡng để chắt lọc ra những giọt cà phê tinh chất và nguyên bản nhất."
+            },
+            {
+                "id": "11",
+                "name": "Cà Phê Sữa",
+                "imageURL": "https://product.hstatic.net/1000075078/product/cfs_large.jpg",
+                "price": 29000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 6000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "description": "Khi người Pháp đem văn hóa cà phê vào Việt Nam, người bản xứ thay thế sữa tươi đắt đỏ bằng sữa đặc rẻ tiền hơn để pha cùng cà phê. Tuy nhiên việc làm này vô tình khiến kết cấu của ly cà phê sánh đặc và đậm đà hơn. Dần dà, ly cà-phê-sữa-đặc đậm vị quen thuộc với nếp sống người Việt trở thành một nét sáng tạo riêng, chinh phục được trái tim hàng triệu người yêu cà phê trên thế giới."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Trà & Macchiato",
+        "data": [
+            {
+                "id": "12",
+                "name": "Trà Cherry Macchiato",
+                "imageURL": "https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_large.jpg",
+                "price": 55000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Trân châu trắng",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Khoác lên mình một ngoại hình tràn đầy năng lượng với sắc đỏ rực rỡ của Cherry chín mọng, kết hợp với nền trà oolong hảo hạng và lớp foam sánh mịn, để mang đến cho bạn một thức uống khoan khoái và dậy lên từng phong vị chua, béo, ngọt đầy ấn tượng."
+            },
+            {
+                "id": "13",
+                "name": "Trà Đào Cam Sả",
+                "imageURL": "https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_large.jpg",
+                "price": 45000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 7000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 14000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Đào ngâm",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Vị thanh ngọt của đào Hy Lạp, vị chua dịu của Cam Vàng nguyên vỏ, vị chát của trà đen tươi được ủ mới mỗi 4 tiếng, cùng hương thơm nồng đặc trưng của sả chính là điểm sáng làm nên sức hấp dẫn của thức uống này. Sản phẩm hiện có 2 phiên bản Nóng và Lạnh phù hợp cho mọi thời gian trong năm."
+            },
+            {
+                "id": "14",
+                "name": "Trà Đen Macchiato",
+                "imageURL": "https://product.hstatic.net/1000075078/product/blacktea_macchiat_large.jpg",
+                "price": 42000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 3000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Extra foam",
+                        "toppingFee": 10000
+                    },
+                    {
+                        "toppingName": "Trân châu trắng",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Trà đen được ủ mới mỗi ngày, giữ nguyên được vị chát mạnh mẽ đặc trưng của lá trà, phủ bên trên là lớp Macchiato \"homemade\" bồng bềnh quyến rũ vị phô mai mặn mặn mà béo béo."
+            },
+            {
+                "id": "15",
+                "name": "Trà Gạo Rang Macchiato",
+                "imageURL": "https://product.hstatic.net/1000075078/product/genmaicha_macchiatov_large.jpg",
+                "price": 48000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Nhỏ",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 6000
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 10000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Trân châu trắng",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Trà gạo rang, hay còn gọi là Genmaicha, hay Trà xanh gạo lứt có nguồn gốc từ Nhật Bản. Tại The Coffee House, chúng tôi nhấn nhá cho Genmaicha thêm lớp Macchiato để tăng thêm mùi vị cũng như trải nghiệm của chính bạn."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Thức uống đá xay",
+        "data": [
+            {
+                "id": "16",
+                "name": "Chanh Sả Đá Xay",
+                "imageURL": "https://product.hstatic.net/1000075078/product/chanhday_1x1_66281943c16b49d480a30860638fdc5e_large.jpg",
+                "price": 49000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 6000
+                    }
+                ],
+                "description": "Sự kết hợp hài hoà giữa những nguyên liệu mộc mạc rất đỗi quen thuộc đối với người Việt cho một thức uống thanh mát, giải nhiệt lại tốt cho sức khoẻ."
+            },
+            {
+                "id": "17",
+                "name": "Chocolate Đá Xay",
+                "imageURL": "https://product.hstatic.net/1000075078/product/chocolate_ice_blended_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 6000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Sauce Chocolate",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Vị đắng của cà phê kết hợp cùng vị cacao ngọt ngào của chocolate, vị sữa tươi ngọt béo, đem đến trải nghiệm vị giác cực kỳ thú vị."
+            },
+            {
+                "id": "18",
+                "name": "Cookies Đá Xay",
+                "imageURL": "https://product.hstatic.net/1000075078/product/cookies_ice_blended_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 6000
+                    }
+                ],
+                "description": "Những mẩu bánh cookies giòn rụm kết hợp ăn ý với sữa tươi và kem tươi béo ngọt, đem đến cảm giác lạ miệng gây thích thú. Một món uống phá cách dễ thương."
+            },
+            {
+                "id": "19",
+                "name": "Đào Việt Quất Đá Xay",
+                "imageURL": "https://product.hstatic.net/1000075078/product/dao_a0adb67ef806443298524236a4cc7e3c_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 6000
+                    }
+                ],
+                "toping": [
+                    {
+                        "toppingName": "Trân châu trắng",
+                        "toppingFee": 10000
+                    }
+                ],
+                "description": "Vẫn vị đào quen thuộc, nhưng được khoác lên mình một dáng vẻ đầy thanh mát và giải khát hơn. Kết hợp với mứt berry và lớp kem béo ngậy nhưng ngọt dịu, cho hương vị tươi mới và lôi cuốn, kích thích vị giác đầy thú vị ngay lần đầu thưởng thức."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Thức uống trái cây",
+        "data": [
+            {
+                "id": "20",
+                "name": "Sinh Tố Cam Xoài",
+                "imageURL": "https://product.hstatic.net/1000075078/product/mango_smoothie_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 6000
+                    }
+                ],
+                "description": "Vị mứt cam xoài hòa trộn độc đáo với sữa chua, cho cảm giác chua ngọt rất sướng. Điểm nhấn là những mẩu bánh cookie giòn tan giúp sự thưởng thức thêm thú vị."
+            },
+            {
+                "id": "21",
+                "name": "Sinh Tố Việt Quất",
+                "imageURL": "https://product.hstatic.net/1000075078/product/blueberry_smoothie_large.jpg",
+                "price": 59000,
+                "type": "drinks",
+                "size": [
+                    {
+                        "sizeTitle": "Vừa",
+                        "sizeFee": 0
+                    },
+                    {
+                        "sizeTitle": "Lớn",
+                        "sizeFee": 6000
+                    }
+                ],
+                "description": "Mứt Việt Quất chua thanh, ngòn ngọt, phối hợp nhịp nhàng với dòng sữa chua bổ dưỡng. Là món sinh tố thơm ngon mà cả đầu lưỡi và làn da đều thích."
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Bánh ngọt",
+        "data": [
+            {
+                "id": "22",
+                "name": "Bánh Chocolate",
+                "imageURL": "https://product.hstatic.net/1000075078/product/choco_1x1_4faf8c80e6604cad88ce30528e2bd409_large.jpg",
+                "price": 29000,
+                "type": "cakes",
+                "description": "Từng lớp bánh mịn ngọt ngào đậm vị chiều lòng người yêu thích hương vị sô cô la. Sẽ ngon hơn nếu bạn kết hợp cùng món trà trái cây thanh mát."
+            },
+            {
+                "id": "23",
+                "name": "Bánh Gấu Chocolate",
+                "imageURL": "https://product.hstatic.net/1000075078/product/gau_1x1_8b308db3a67a47688ff0d69a8c5615bf_large.jpg",
+                "price": 39000,
+                "type": "cakes",
+                "description": "Với vẻ ngoài đáng yêu và hương vị ngọt ngào, thơm béo nhất định bạn phải thử ít nhất 1 lần."
+            },
+            {
+                "id": "24",
+                "name": "Bánh Matcha",
+                "imageURL": "https://product.hstatic.net/1000075078/product/matcha_178bdeeb1f9b47ea9f782048eb145f49_large.jpg",
+                "price": 29000,
+                "type": "cakes",
+                "description": "Khám phá từng tầng vị trà xanh thơm lừng xen kẽ lớp kéo béo dịu với đậu đỏ."
+            },
+            {
+                "id": "25",
+                "name": "Bánh Tiramisu",
+                "imageURL": "https://product.hstatic.net/1000075078/product/tira_1x1_eb865751a24e4520be32a56129dd7a2d_large.jpg",
+                "price": 29000,
+                "type": "cakes",
+                "description": "Hương vị dễ ghiền được tạo nên bởi chút đắng nhẹ của cà phê, lớp kem trứng béo ngọt dịu hấp dẫn."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Bánh mặn",
+        "data": [
+            {
+                "id": "26",
+                "name": "Bánh Bông Lan Trứng Muối",
+                "imageURL": "https://product.hstatic.net/1000075078/product/trungmui1_9abf7c43946b44e9948dbac1eff95e40_large.jpg",
+                "price": 29000,
+                "type": "cakes",
+                "description": "Chắc chắn bạn sẽ không thể cưỡng lại chiếc bánh bông lan tơi xốp, mềm mịn, vị ngọt dịu kết hợp với trứng muối và chà bông đậm đà, cân bằng vị giác."
+            },
+            {
+                "id": "27",
+                "name": "Bánh Croissant Bơ Tỏi",
+                "imageURL": "https://product.hstatic.net/1000075078/product/sungtrau_1x1_0e9a3e2590794cb9a6ff7ad9d9562c25_large.jpg",
+                "price": 29000,
+                "type": "cakes",
+                "description": "Thưởng thức ngay chiếc bánh Croissant bơ tỏi thơm lừng, bên ngoài vỏ bánh giòn hấp dẫn bên trong mềm dai vị ngon khó cưỡng."
+            },
+            {
+                "id": "28",
+                "name": "Bánh Mì Chà Bông Phô Mai",
+                "imageURL": "https://product.hstatic.net/1000075078/product/phomaichabong_1x1_e86c140c8a084458afcace64a93d2fd1_large.jpg",
+                "price": 32000,
+                "type": "cakes",
+                "description": "Bạn không thể bỏ lỡ chiếc bánh với lớp phô mai vàng sánh mịn bên trong, được bọc ngoài lớp vỏ xốp mềm thơm lừng. Thêm lớp chà bông mằn mặn hấp dẫn bên trên."
+            },
+            {
+                "id": "29",
+                "name": "Bánh Passion Cheese",
+                "imageURL": "https://product.hstatic.net/1000075078/product/chanhday_1x1_da85397059a149e1b886237434f7ce48_large.jpg",
+                "price": 29000,
+                "type": "cakes",
+                "description": "Tận hưởng chiếc bánh mát lạnh với sự kết hợp hoàn hảo của vị béo ngậy của nhân kem phô mai, cân bằng với vị chua thanh từ chanh dây."
+            }
+        ]
+    }
+]

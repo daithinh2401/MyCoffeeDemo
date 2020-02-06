@@ -1,0 +1,494 @@
+[
+    {
+        "id": "0",
+        "city": "Hồ Chí Minh",
+        "districts": [
+            {
+                "id": "0",
+                "districtName": "Quận Gò Vấp",
+                "stores": [
+                    {
+                        "id": "0",
+                        "storeAddress": "371 Nguyễn Kiệm, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/2jSTPO1ZhIBbFSQyVwHOnKwiBSxJvwNBeOpEi221.jpeg",
+                        "coordinate": {
+                            "latitude": 10.816785000,
+                            "longitude": 106.677107000
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "storeAddress": "258 Nguyễn Văn Lượng, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/pWTjRHZgu5ZcFQcI64DOicR1MQcjFfepyDl6CLMK.jpeg",
+                        "coordinate": {
+                            "latitude": 10.838814000,
+                            "longitude": 106.671380000
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "storeAddress": "41 Nguyễn Thái Sơn, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/kqCGADGHlWiyE6we236aD25zR803syhQe5pIgxii.jpeg",
+                        "coordinate": {
+                            "latitude": 10.821475000,
+                            "longitude": 106.684183000
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "storeAddress": "229 Nguyễn Oanh, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/BwxDwNqbcPtIOmroc91GALC4M3pIrZItycxg83wg.jpeg",
+                        "coordinate": {
+                            "latitude": 10.840336000,
+                            "longitude": 106.675926000
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "storeAddress": "403 Phan Huy Ích, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/mEMO8YNq6PH5Yc5FVjudkODRxEWSgbl5Xf85ADzZ.jpeg",
+                        "coordinate": {
+                            "latitude": 10.844017000,
+                            "longitude": 106.639799000
+                        }
+                    },
+                    {
+                        "id": "5",
+                        "storeAddress": "487 Phan Văn Trị, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bf373e4fbc686250c46510b_IMAGE%202019-08-13%2011%3A35%3A34.jpg",
+                        "coordinate": {
+                            "latitude": 10.823397200,
+                            "longitude": 106.692028000
+                        }
+                    },
+                    {
+                        "id": "6",
+                        "storeAddress": "293 Quang Trung, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/yp6EN3IvoGeHY8J6FmoIdIjjLrSETaS8co5328qG.jpeg",
+                        "coordinate": {
+                            "latitude": 10.829091000,
+                            "longitude": 106.672053000
+                        }
+                    },
+                    {
+                        "id": "7",
+                        "storeAddress": "771 Phan Văn Trị, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/rPQDhxy9T1ODfpTdu8qoEWCD1MIFF5OgY68ZMvSf.jpeg",
+                        "coordinate": {
+                            "latitude": 10.828194000,
+                            "longitude": 106.685314000
+                        }
+                    },
+                    {
+                        "id": "8",
+                        "storeAddress": "355 Thống Nhất, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/2M4NOtxx6Bmp439ry9vHCGc7fdlx7l089nKDtAb1.jpeg",
+                        "coordinate": {
+                            "latitude": 10.841511000,
+                            "longitude": 106.664689000
+                        }
+                    },
+                    {
+                        "id": "9",
+                        "storeAddress": "240 Phạm Văn Chiêu, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c988_TCH_PhamVanChieu.jpeg",
+                        "coordinate": {
+                            "latitude": 10.848267900,
+                            "longitude": 106.646868100
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "districtName": "Quận Tân Bình",
+                "stores": [
+                    {
+                        "id": "10",
+                        "storeAddress": "4-6 Ấp Bắc, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/3aDNZ8NTQHK5ePs6MwayzfbuWmqvYjxlnNepyFlS.jpeg",
+                        "coordinate": {
+                            "latitude": 10.800570000,
+                            "longitude": 106.641502000
+                        }
+                    },
+                    {
+                        "id": "11",
+                        "storeAddress": "45 Trương Công Định, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/C9Q9wFoTfPKPuRyqEBWtFuZPqWPmj0ihc4l1Q6R4.jpeg",
+                        "coordinate": {
+                            "latitude": 10.797331000,
+                            "longitude": 106.641461000
+                        }
+                    },
+                    {
+                        "id": "12",
+                        "storeAddress": "559 Trường Chinh, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/uzOvqE4iUXZEWQwp0iBOSJwyHWt035AWnukF0xDr.jpeg",
+                        "coordinate": {
+                            "latitude": 10.802191200,
+                            "longitude": 106.634302600
+                        }
+                    },
+                    {
+                        "id": "13",
+                        "storeAddress": "132 Hoàng Hoa Thám, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Vc2joEqf9yvOnxvhbD7PwGG78GoJNcqBoyJQ4huL.jpeg",
+                        "coordinate": {
+                            "latitude": 10.800882000,
+                            "longitude": 106.647521000
+                        }
+                    },
+                    {
+                        "id": "14",
+                        "storeAddress": "51 Lê Trung Nghĩa, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/3VjgWIdfQP8WDJ8QOwGolN1JYgw8HITEKBiTrr6E.jpeg",
+                        "coordinate": {
+                            "latitude": 10.800469000,
+                            "longitude": 106.650897000
+                        }
+                    },
+                    {
+                        "id": "15",
+                        "storeAddress": "112 Bàu Cát, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/qYZvSPL2q9wS3ghDcZbf4fai1NmVzJhlesGVUFr9.jpeg",
+                        "coordinate": {
+                            "latitude": 10.792219000,
+                            "longitude": 106.642627000
+                        }
+                    },
+                    {
+                        "id": "16",
+                        "storeAddress": "2 Đống Đa, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/SUtkxfOPeRMBghLuoBy1goKY0Hwuq8IYTxHmRE15.jpeg",
+                        "coordinate": {
+                            "latitude": 10.808394000,
+                            "longitude": 106.665610000
+                        }
+                    },
+                    {
+                        "id": "17",
+                        "storeAddress": "281 Lê Văn Sỹ, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/c1tWU0PcvfdMH19CPJNCwnmFXUnjayapEiC0aQ2Y.jpeg",
+                        "coordinate": {
+                            "latitude": 10.794411000,
+                            "longitude": 106.668022000
+                        }
+                    },
+                    {
+                        "id": "18",
+                        "storeAddress": "17 Út Tịch, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/J76kffFGll5l54OCBCVFTTKteG4J6oeP1NQ2DYff.jpeg",
+                        "coordinate": {
+                            "latitude": 10.796347000,
+                            "longitude": 106.658738000
+                        }
+                    },
+                    {
+                        "id": "19",
+                        "storeAddress": "18 Hồng Hà, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/jVL3O6UYbviqzbuIqq80WtIp4MJy88SSLn5nSKqL.jpeg",
+                        "coordinate": {
+                            "latitude": 10.813243000,
+                            "longitude": 106.667071000
+                        }
+                    },
+                    {
+                        "id": "20",
+                        "storeAddress": "291 Hồng Lạc, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://s3-ap-southeast-1.amazonaws.com/tch-mkt-digital-cms/The+Coffee+House/Stores/NSO+H%E1%BB%93ng+L%E1%BA%A1c+app.jpg",
+                        "coordinate": {
+                            "latitude": 10.786260300,
+                            "longitude": 106.649204500
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "districtName": "Quận Phú Nhuận",
+                "stores": [
+                    {
+                        "id": "21",
+                        "storeAddress": "68 Huỳnh Văn Bánh, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/MhsCFJgF6Xr6uYTWrntKDyXNNx0ZTC4Nolh3rRvu.jpeg",
+                        "coordinate": {
+                            "latitude": 10.794424000,
+                            "longitude": 106.680929000
+                        }
+                    },
+                    {
+                        "id": "22",
+                        "storeAddress": "185 Trần Huy Liệu, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/Lxju06YM2t0UilzteFn3PILoOB9q0cAdupoq5h7x.jpeg",
+                        "coordinate": {
+                            "latitude": 10.797318000,
+                            "longitude": 106.677516000
+                        }
+                    },
+                    {
+                        "id": "23",
+                        "storeAddress": "141 Phan Đăng Lưu, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b21f8cc1acd4d020326691d_TCH%20HCM%20141%20Phan%20%E2%94%80%C3%89a%E2%95%A0%C3%A5ng%20Lu%E2%95%A0%C2%A2u.jpg",
+                        "coordinate": {
+                            "latitude": 10.802450000,
+                            "longitude": 106.683900000
+                        }
+                    },
+                    {
+                        "id": "24",
+                        "storeAddress": "1 Hoa Sứ, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bc6aa23fbc686224a6726fb_TCH%20HCM%20So%E2%95%A0%C3%A9%E2%95%A0%C3%BC%201%20Hoa%20Su%E2%95%A0%C2%A2%E2%95%A0%C3%BC.jpg",
+                        "coordinate": {
+                            "latitude": 10.798950100,
+                            "longitude": 106.687435900
+                        }
+                    },
+                    {
+                        "id": "25",
+                        "storeAddress": "43 Hoa Hồng, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/NdESAPANSgCwTt2JNZueE7oUlJk4lTMTonT3pVSR.jpeg",
+                        "coordinate": {
+                            "latitude": 10.796429000,
+                            "longitude": 106.690869000
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "districtName": "Quận 3",
+                "stores": [
+                    {
+                        "id": "26",
+                        "storeAddress": "TCH Signature 19B Phạm Ngọc Thạch, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/XAonGImKAb5nYiWg55ji0nSU5gJBkX40FiZHXsgw.jpeg",
+                        "coordinate": {
+                            "latitude": 10.783696000,
+                            "longitude": 106.694513000
+                        }
+                    },
+                    {
+                        "id": "27",
+                        "storeAddress": "223 Võ Văn Tần, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/e9kufkGK7xBSv4uBFF4iDkqY3VF7kRYFP32RLKcY.jpeg",
+                        "coordinate": {
+                            "latitude": 10.773043000,
+                            "longitude": 106.687147000
+                        }
+                    },
+                    {
+                        "id": "28",
+                        "storeAddress": "183F Trần Quốc Thảo, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/VCZdifuiL9srVOUF8Vh3vapGeowcS9ioEPUx0Z5J.jpeg",
+                        "coordinate": {
+                            "latitude": 10.785546000,
+                            "longitude": 106.681859000
+                        }
+                    },
+                    {
+                        "id": "29",
+                        "storeAddress": "63 Rạch Bùng Binh, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b46b2d6fbc686139f4d1bf2_tch-rachbungbinh.jpg",
+                        "coordinate": {
+                            "latitude": 10.782558000,
+                            "longitude": 106.680152000
+                        }
+                    },
+                    {
+                        "id": "30",
+                        "storeAddress": "6A Ngô Thời Nhiệm, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/jmARQEpuEoZU4TRtdWksYy9JMMZheSQircD7ssHW.jpeg",
+                        "coordinate": {
+                            "latitude": 10.780716000,
+                            "longitude": 106.690051000
+                        }
+                    },
+                    {
+                        "id": "31",
+                        "storeAddress": "86 Cao Thắng, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/YDZRHQ5KJQlsCaSBWdy7sPtMIlbGhenaavpQMdF6.jpeg",
+                        "coordinate": {
+                            "latitude": 10.771063500,
+                            "longitude": 106.681110100
+                        }
+                    },
+                    {
+                        "id": "32",
+                        "storeAddress": "130 Cách Mạng Tháng 8, Quận 3, Hồ Chí Minh, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/GbPLfGIrCX3OSDBbUs5Q8g333P8efE1oVakkTkg8.jpeg",
+                        "coordinate": {
+                            "latitude": 10.778277000,
+                            "longitude": 106.681007000
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "city": "Hà Nội",
+        "districts": [
+            {
+                "id": "4",
+                "districtName": "Quận Cầu Giấy",
+                "stores": [
+                    {
+                        "id": "33",
+                        "storeAddress": "60 Vũ Phạm Hàm, Cầu Giấy, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bfe084efbc6865eac59c987_TCH%20HNI%2060%20Vu%E2%95%A0%C3%A2%20Pha%E2%95%A0%C3%BAm%20Ha%E2%95%A0%C3%87m.jpg",
+                        "coordinate": {
+                            "latitude": 21.015903500,
+                            "longitude": 105.795723100
+                        }
+                    },
+                    {
+                        "id": "34",
+                        "storeAddress": "UDIC Complex - N04 Hoàng Đạo Thúy, Cầu Giấy, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/BPRDdlSvuNP33Iz7tgRAY7tjwGqc3xAtOlfbjSFw.jpeg",
+                        "coordinate": {
+                            "latitude": 21.008681000,
+                            "longitude": 105.800799000
+                        }
+                    },
+                    {
+                        "id": "35",
+                        "storeAddress": "160 Nguyễn Khánh Toàn, Cầu Giấy, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/MJcxKqrZkFJ3S6WJSXWKTdBIXpjVvDyHAB0IKln5.jpeg",
+                        "coordinate": {
+                            "latitude": 21.037728000,
+                            "longitude": 105.801082000
+                        }
+                    },
+                    {
+                        "id": "36",
+                        "storeAddress": "Discovery Complex 302 Cầu Giấy, Cầu Giấy, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b693704fbc68618ad24f8a6_IMAGE%202019-08-13%2011%3A29%3A49.jpg",
+                        "coordinate": {
+                            "latitude": 21.035300000,
+                            "longitude": 105.794528000
+                        }
+                    },
+                    {
+                        "id": "37",
+                        "storeAddress": "2 Hồ Tùng Mậu, Cầu Giấy, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/r6DASvoBWIuKgSI9I3wi06Rn8qmWTwJtc2lKzu54.jpeg",
+                        "coordinate": {
+                            "latitude": 21.037220000,
+                            "longitude": 105.779767000
+                        }
+                    },
+                    {
+                        "id": "38",
+                        "storeAddress": "3 Trung Hòa, Cầu Giấy, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/T3NKXfZrYzdBypcbQwvJWumD50WtzzgmGfJaDnZp.jpeg",
+                        "coordinate": {
+                            "latitude": 21.014423000,
+                            "longitude": 105.801632000
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "districtName": "Quận Đống Đa",
+                "stores": [
+                    {
+                        "id": "39",
+                        "storeAddress": "30 Hào Nam, Đống Đa, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bda6dcffbc68614df6e1996_IMAGE%202019-08-13%2011%3A31%3A54.jpg",
+                        "coordinate": {
+                            "latitude": 21.021624300,
+                            "longitude": 105.826334000
+                        }
+                    },
+                    {
+                        "id": "40",
+                        "storeAddress": "1 Thái Hà, Đống Đa, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5b3b04d5fbc68621f3385252_TCH%20HNI%20So%E2%95%A0%C3%A9%E2%95%A0%C3%BC%201-2%20Tha%E2%95%A0%C3%BCi%20Ha%E2%95%A0%C3%87.jpg",
+                        "coordinate": {
+                            "latitude": 21.009039000,
+                            "longitude": 105.823918000
+                        }
+                    },
+                    {
+                        "id": "41",
+                        "storeAddress": "68A Hoàng Cầu Mới, Đống Đa, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/GlTa3Se1y0b6pNkp2DqkG5No8RftWUdxZUxsFyvF.jpeg",
+                        "coordinate": {
+                            "latitude": 21.016055000,
+                            "longitude": 105.821272000
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "districtName": "Quận Hai Bà Trưng",
+                "stores": [
+                    {
+                        "id": "42",
+                        "storeAddress": "122 Bùi Thị Xuân, Hai Bà Trưng, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/hSRyZjxn2yvTkBIL8QRyBVotiVBcS3J4pgSzQEFM.jpeg",
+                        "coordinate": {
+                            "latitude": 21.013310000,
+                            "longitude": 105.849816000
+                        }
+                    },
+                    {
+                        "id": "43",
+                        "storeAddress": "159 Trần Đại Nghĩa, Hai Bà Trưng, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/t61dKvElpg1MQlhhbO2Z0vpR5Nc3um1awulWq0IM.jpeg",
+                        "coordinate": {
+                            "latitude": 21.001154000,
+                            "longitude": 105.845362000
+                        }
+                    },
+                    {
+                        "id": "44",
+                        "storeAddress": "458 Minh Khai, Hai Bà Trưng, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5qDKWOPnxqObpuHxmRGOyENPsdvsRoYY0kpUUHa4.jpeg",
+                        "coordinate": {
+                            "latitude": 20.993436000,
+                            "longitude": 105.869589000
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "districtName": "Quận Hoàng Mai",
+                "stores": [
+                    {
+                        "id": "45",
+                        "storeAddress": "38A Kim Đồng, Hoàng Mai, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/5bf373e4fbc686250c465108_IMAGE%202019-08-13%2011%3A32%3A28.jpg",
+                        "coordinate": {
+                            "latitude": 20.983541800,
+                            "longitude": 105.842276400
+                        }
+                    },
+                    {
+                        "id": "46",
+                        "storeAddress": "72 Trần Nguyên Đán, Hoàng Mai, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/HpYRRPjwSXfroFEjKcqTWWBOVUojM8i0Ai6a7p7w.jpeg",
+                        "coordinate": {
+                            "latitude": 20.988724000,
+                            "longitude": 105.830788000
+                        }
+                    },
+                    {
+                        "id": "47",
+                        "storeAddress": "Rice City Linh Đàm, Hoàng Mai, Hà Nội, Việt Nam",
+                        "storeImageAddress": "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/store/fhzN39KobRWi5mCbUrljzf7VrPq10vkZPGdjHdL4.jpeg",
+                        "coordinate": {
+                            "latitude": 20.963392000,
+                            "longitude": 105.822909000
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

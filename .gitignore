@@ -1,0 +1,9 @@
+
+MyReactDemo/ios/GoogleService-Info.plist
+Server/firebase-adminsdk.json
+node_modules/
+API_KEY/
+MyReactDemo/android/app/google-services.json
+Server/server_source/dbConfig.js
+Server/source/.env
+/starter-kit
