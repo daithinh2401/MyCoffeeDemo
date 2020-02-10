@@ -76,5 +76,9 @@ Project divided by Screen Component. (Path = "../MyReactDemo/source/")
 <img src="./Illustration/FilterStore.png" width="281" height="609" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Illustration/StoreDetail.png" width="281" height="609" />
 <br /><br /><br /><br /><br />
+
+### Video Demo  
+* [Login](https://www.youtube.com/watch?v=Nzx6GXBcGyU)
+
 ## Authors
 * **Thinh Nguyen** - [MyCoffeeDemo](https://github.com/daithinh2401/MyCoffeeDemo)
