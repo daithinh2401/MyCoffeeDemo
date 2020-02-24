@@ -79,7 +79,10 @@ Project divided by Screen Component. (Path = "../MyReactDemo/source/")
 
 ### Video Demo  
 **Login**  
-[![Login](https://i9.ytimg.com/vi/Nzx6GXBcGyU/mq1.jpg?sqp=COOLhPIF&rs=AOn4CLBW0HqaZ1xPwmJ-gG7ww0N-xd7gKQ)](https://youtu.be/Nzx6GXBcGyU)
+[![Login](https://drive.google.com/open?id=1Z63QEQEQX3G0iw0HcGg66HxANXVSI3H1)](https://youtu.be/Nzx6GXBcGyU)
+
+**App**  
+[![Login](https://drive.google.com/open?id=1x9XeF-f0XpsDoKtRz1PNX_-O25Gq8Op5)](https://youtu.be/Nzx6GXBcGyU)
 
 ## Authors
 * **Thinh Nguyen** - [MyCoffeeDemo](https://github.com/daithinh2401/MyCoffeeDemo)
